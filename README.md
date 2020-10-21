@@ -1,1 +1,1 @@
-# Hacktober-computing-
+# Hacktober-computing
